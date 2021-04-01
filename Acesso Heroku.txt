@@ -1,0 +1,11 @@
+postgres://
+
+User: bleamnniqtsjqr
+
+Password: c1d58cf80f4db175ea36757ad71ae03190b7f2a19e0522a7c52299b98cba7bde
+
+Server: ec2-54-145-102-149.compute-1.amazonaws.com
+
+Port: 5432
+
+Database: d3n9krij2gbp40
